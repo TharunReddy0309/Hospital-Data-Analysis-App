@@ -80,8 +80,11 @@ Edit
  
 
 Author
+
 Tharun Reddy
+
 Open to collaboration and feedback to improve this project further.
+
 Feel free to reach out or contribute!
 
 
