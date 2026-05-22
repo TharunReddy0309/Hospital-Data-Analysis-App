@@ -69,18 +69,15 @@ Edit
 
 ## How to Run
 
-1. Clone this repository.
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-3.Run the Streamlit app:
-
-  ```bash
-
-   streamlit run hospitalapp.py
-
-4.Open the provided localhost URL in your browser.
-
+  1. Clone this repository.
+  2. Install dependencies:
+     ```bash
+     pip install -r requirements.txt
+  3. Run the Streamlit app:
+    ```bash
+     streamlit run hospitalapp.py
+  4. Open the provided localhost URL in your browser.
+ 
 
 Author
 Tharun Reddy
