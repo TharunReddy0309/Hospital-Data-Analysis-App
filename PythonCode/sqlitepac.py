@@ -1,17 +1,15 @@
 import psycopg2
 from datetime import datetime
 
-# ✅ Connect to PostgreSQL (Supabase)
 def postgre_connect():
     return psycopg2.connect(
         host='db.kstpdhgyspswyhexkmqf.supabase.co',
         port=5432,
         database='postgres',
         user='postgres',
-        password='Tharun@123#'
+        password='*****'#keep your own password
     )
 
-# ✅ Create the 'patients' table with a PRIMARY KEY
 def create_table():
     conn = postgre_connect()
     cur = conn.cursor()
