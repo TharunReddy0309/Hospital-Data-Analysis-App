@@ -1,4 +1,3 @@
-# ✅ plotings.py
 import pandas as pd
 import sqlitepac
 
