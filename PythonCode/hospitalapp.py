@@ -11,7 +11,7 @@ def postgre_connect():
         port=5432,
         database='postgres',
         user='postgres',
-        password='Tharun@123#'
+        password='******'#keep Your password!
     )
 
 # ----------------- Session Initialization -----------------
